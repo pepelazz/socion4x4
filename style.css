@@ -1,0 +1,12 @@
+.main-title {
+    margin-top: 100px;
+}
+
+.icon-list {
+    font-size: 50px;
+}
+
+.icon-list a {
+    color: inherit;
+    margin-right: 20px;
+}
