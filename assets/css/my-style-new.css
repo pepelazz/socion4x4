@@ -29,3 +29,7 @@ section.page-header.page-header-xs {
     font: inherit;
     font-weight: 900;
 }
+
+.badge-link a{
+    color: white;
+}
