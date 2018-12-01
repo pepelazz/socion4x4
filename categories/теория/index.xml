@@ -6,10 +6,19 @@
     <description>Recent content in Теория on Боевая соционика</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Oct 2018 10:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:54:53 -0500</lastBuildDate>
     
 	<atom:link href="http://socion4x4.ru/categories/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Предел контроля.</title>
+      <link>http://socion4x4.ru/post/inversion_of_control/</link>
+      <pubDate>Sat, 01 Dec 2018 00:54:53 -0500</pubDate>
+      
+      <guid>http://socion4x4.ru/post/inversion_of_control/</guid>
+      <description>Есть такая версия что все со всем связано. Если так, то можно представить количественно бесконечную сложность этих связей. Представить и тут же забыть. Вытеснить. Ибо информация эта для нашего умозрения бесполезна по причине своей непрактичности. Для умозрения ценны понятные причинно-следственные связи: нажал выключатель - свет загорелся, засунул в банкомат карточку - оттуда появились банкноты, нажал на педальку - с неба упал банан. Чем меньше промежуток времени между действием и последствием и чем более гарантированное последствие, тем лучше такая связь выделяется из всей бесконечности существующих связей и лучше запоминается.</description>
+    </item>
     
     <item>
       <title>Все люди врут.</title>
