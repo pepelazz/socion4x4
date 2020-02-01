@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Боевая соционика</title>
@@ -6,21 +6,22 @@
     <description>Recent content in Categories on Боевая соционика</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2020 00:54:53 -0500</lastBuildDate>
     
 	<atom:link href="http://socion4x4.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Интервью</title>
-      <link>http://socion4x4.ru/categories/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E/</link>
-      <pubDate>Thu, 06 Jul 2017 21:54:53 -0500</pubDate>
+      <title>теория</title>
+      <link>http://socion4x4.ru/categories/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 31 Jan 2020 00:54:53 -0500</pubDate>
       
-      <guid>http://socion4x4.ru/categories/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E/</guid>
+      <guid>http://socion4x4.ru/categories/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Кино</title>
+      <title>кино</title>
       <link>http://socion4x4.ru/categories/%D0%BA%D0%B8%D0%BD%D0%BE/</link>
       <pubDate>Tue, 13 Aug 2019 21:54:53 -0500</pubDate>
       
@@ -29,20 +30,20 @@
     </item>
     
     <item>
-      <title>Теория</title>
-      <link>http://socion4x4.ru/categories/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</link>
-      <pubDate>Wed, 16 Jan 2019 00:54:53 -0500</pubDate>
-      
-      <guid>http://socion4x4.ru/categories/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Философское</title>
+      <title>философское</title>
       <link>http://socion4x4.ru/categories/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%BE%D0%B5/</link>
       <pubDate>Thu, 23 Aug 2018 21:54:53 -0500</pubDate>
       
       <guid>http://socion4x4.ru/categories/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%BE%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>интервью</title>
+      <link>http://socion4x4.ru/categories/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E/</link>
+      <pubDate>Thu, 06 Jul 2017 21:54:53 -0500</pubDate>
+      
+      <guid>http://socion4x4.ru/categories/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E/</guid>
       <description></description>
     </item>
     
