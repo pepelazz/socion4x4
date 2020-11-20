@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Боевая соционика</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2020 00:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2020 00:54:53 -0500</lastBuildDate>
     
 	<atom:link href="http://socion4x4.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>podcast</title>
+      <link>http://socion4x4.ru/categories/podcast/</link>
+      <pubDate>Thu, 19 Nov 2020 00:54:53 -0500</pubDate>
+      
+      <guid>http://socion4x4.ru/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>кино</title>
+      <link>http://socion4x4.ru/categories/%D0%BA%D0%B8%D0%BD%D0%BE/</link>
+      <pubDate>Thu, 19 Nov 2020 00:54:53 -0500</pubDate>
+      
+      <guid>http://socion4x4.ru/categories/%D0%BA%D0%B8%D0%BD%D0%BE/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>теория</title>
@@ -17,15 +35,6 @@
       <pubDate>Fri, 31 Jan 2020 00:54:53 -0500</pubDate>
       
       <guid>http://socion4x4.ru/categories/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>кино</title>
-      <link>http://socion4x4.ru/categories/%D0%BA%D0%B8%D0%BD%D0%BE/</link>
-      <pubDate>Tue, 13 Aug 2019 21:54:53 -0500</pubDate>
-      
-      <guid>http://socion4x4.ru/categories/%D0%BA%D0%B8%D0%BD%D0%BE/</guid>
       <description></description>
     </item>
     
